@@ -11,7 +11,9 @@ miArray = ["Helado", "Pizza", "Chocolate"];
 console.log(miArray.unshift("cereal"));
 console.log(miArray);
 
-let miArray1 = ['cereal', 'Helado', 'Pizza', 'Chocolate']
-console.log(miArray1.replace(',' , '-'));
 
+let array1 = (miArray);
+console.log(array1.toString());
 
+let string = "cereal,Helado,Pizza,Chocolate";
+console.log(string.replaceAll(',' , '-'));

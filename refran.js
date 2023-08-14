@@ -7,7 +7,7 @@ console.log(longitudRefran.length);
 
 
 let novenaLetra = miRefran;
-console.log(novenaLetra[8]);
+console.log(novenaLetra[9]);
 
 
 let ultimaLetra = miRefran;
@@ -25,6 +25,8 @@ console.log(miRefran.replace('que' , 'cadena robada'));
 
 miRefran = "Camaron que se duerme se lo lleva la corriente";
 console.log(miRefran.toUpperCase());
+
+
 
 
 
